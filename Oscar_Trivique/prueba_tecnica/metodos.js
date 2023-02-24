@@ -87,7 +87,7 @@ function validarCorreo(email){
         alert('el correo es invlido');
         return false;
     }else{
-        alert('el correo es valido');
+        //alert('el correo es valido');
         return true;
     }
 }
@@ -102,7 +102,7 @@ function validarAlias(alias){
         alert('el alias es invalido, debe contener un minimo de 5 caracteres entre numeros y letras');
         return false;
     }else{
-        alert('el alias es valido');
+        //alert('el alias es valido');
         return true;
     }
 }
