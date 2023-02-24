@@ -1,0 +1,23 @@
+ select {
+    width : 200px;
+    
+  }
+
+
+  .column{
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 5px;
+    
+  }
+
+  .columnchk{
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+
+  .contenedor{
+    border-color: black;
+    border-width: 5px;
+    
+  }
